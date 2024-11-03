@@ -13,7 +13,7 @@ As a passionate Computer Science student, I specialize in the Machine Learning a
 ### Others
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-### Work Experience
+# 🧑‍💼 Work Experience
 ### UG Researcher at Cognitive Science Lab, IIITD (Present)
 ### Teaching Assistant for Advance Programming at IIITD (Present)
 ### Project Intern at Oracle (Summer 2024)

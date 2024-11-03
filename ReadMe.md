@@ -1,5 +1,8 @@
 # 💫 About Me:
-As a passionate Computer Science student, I specialize in the Machine Learning and Data science domain. My interest in this field motivates me to solve complex problems, as demonstrated through my internships and projects. It feels good to explore innovative tech solutions, whether it's through building DBMS systems, web development, or machine learning projects. There's also a keen interest in finance and the stock market, paired with a love for sports, especially football. Always eager to connect with like-minded individuals and explore innovative tech solutions together!
+- Passionate Computer Science student specializing in Machine Learning and Data Science.
+- GitHub Profile: github.com/garv-makkar
+- Other Interests: Finance and Stock Market, Sports, especially football. 
+- Always eager to connect with like-minded individuals and explore innovative tech solutions together!
 
 # 💻 Tech Stack:
 ### Most Used Languages

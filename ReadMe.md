@@ -1,6 +1,5 @@
 # 💫 About Me:
 - Passionate Computer Science student specializing in Machine Learning and Data Science.
-- GitHub Profile: github.com/garv-makkar
 - Other Interests: Finance and Stock Market, Sports, especially football. 
 - Always eager to connect with like-minded individuals and explore innovative tech solutions together!
 

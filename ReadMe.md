@@ -2,6 +2,8 @@
 As a passionate Computer Science student, I specialize in the Machine Learning and Data science domain. My interest in this field motivates me to solve complex problems, as demonstrated through my internships and projects. It feels good to explore innovative tech solutions, whether it's through building DBMS systems, web development, or machine learning projects. There's also a keen interest in finance and the stock market, paired with a love for sports, especially football. Always eager to connect with like-minded individuals and explore innovative tech solutions together!
 
 # 💻 Tech Stack:
+### Most Used Languages
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ### Machine Learning

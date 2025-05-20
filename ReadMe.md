@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Passionate Computer Science student specializing in Machine Learning and Data Science.
-- Other Interests: Finance and Stock Market, Sports, especially football. 
+- Other Interests: Stock Market, Sports, especially football. 
 - Always eager to connect with like-minded individuals and explore innovative tech solutions together!
 
 # 💻 Tech Stack:

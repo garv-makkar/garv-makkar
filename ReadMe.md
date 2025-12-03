@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Passionate Computer Science student specializing in Machine Learning and Data Science.
+- Passionate software Engineer student specializing in Machine Learning and Data Science.
 - Other Interests: Stock Market, Sports, especially football. 
 - Always eager to connect with like-minded individuals and explore innovative tech solutions together!
 
@@ -24,6 +24,7 @@
 
 
 # 🧑‍💼 Work Experience
+### MTS-1 at Oracle (Present)
 ### UG Researcher at Cognitive Science Lab, IIITD (Present)
 ### Teaching Assistant for Advance Programming at IIITD (7th Semester of B.Tech)
 ### Project Intern at Oracle (Summer 2024)
